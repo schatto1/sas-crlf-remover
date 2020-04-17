@@ -26,7 +26,7 @@ Simply copy and insert the code snippet into your SAS code that imports the CSV 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
