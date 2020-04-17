@@ -20,7 +20,8 @@
 %let repD='$';                    /* replacement character CR */
 
 
-%let dsnnme=my_out;      /* use full path of CSV file */
+%let dsnnme=[REPLACE THIS WITH YOUR CSV FILENAME OR MACRO]; 
+/* use full path of CSV file */
 
 data _null_;
   /* RECFM=N reads the file in binary format. The file consists    */
