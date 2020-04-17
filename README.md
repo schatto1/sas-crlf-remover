@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Simply insert the code snippet into your SAS code that imports the CSV file into SAS as a dataset. Make sure to modify the filename or the macro that points SAS to your CSV file.
+Simply copy and insert the code snippet into your SAS code that imports the CSV file into SAS as a dataset. Make sure to modify the filename or the macro that points SAS to your CSV file.
 
 ## Built With
 
@@ -31,4 +31,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * This code snippet is a modification of a solution found on the SAS Institute support page, which can be found [here](https://support.sas.com/kb/26/065.html). All credit goes to the initial author of this solution.
-
